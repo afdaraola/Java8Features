@@ -10,4 +10,5 @@ public class arrExample {
             System.out.println(i);  // 2,1,0
         }
     }
+
 }
