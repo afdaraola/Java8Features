@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class ListExamples {
+    //static  Boolean[] arr = new Boolean[1];
     public static void main(String[] args) {
 
             //Creating and Using Arrays
@@ -44,6 +45,27 @@ public class ListExamples {
       //  System.out.println(100%10);
 
 
+     /*   StringBuilder sb = new StringBuilder("SpaceStation");
+      String ss=  sb.delete(5,6).insert(5," S").toString().toUpperCase();
+        System.out.println(sb);
+        System.out.println(ss);*/
+/*
+        Boolean[] arr = new Boolean[1];
+            if(arr[0]) {
+                System.out.println(true);
+            } else {
+                System.out.println(false);
+            }*/
+
+      //  LocalDate localDate = new LocalDate();
+
+        //Using Loop Constructs
+        /*     boolean flag = true;
+        do {
+            System.out.println(100);
+        } while (flag);
+
+        System.out.println("bay");*/
 
     }
 
