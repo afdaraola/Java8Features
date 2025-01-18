@@ -100,6 +100,7 @@ public class ListExamples {
 
         list.remove(null);
 
+
         System.out.println("size rm null:"+ list.size()  );
 
         System.out.println(list);
